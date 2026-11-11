@@ -1,0 +1,27 @@
+statsapi 2024........sportmonks 2024
+Odds BK..........Odd
+Haugesund........Haugesund
+Viking FK........Viking
+Sarpsborg 08.......Sarpsborg 08
+Molde FK.......Molde
+Strømsgodset.......Strømsgodset
+Lillestrøm SK........Lillestrøm
+Kristiansund BK........Kristiansund
+Rosenborg BK........Rosenborg
+Sandefjord Fotball........Sandefjord
+Tromsø IL.......Tromsø
+SK Brann..........Brann
+Fredrikstad FK........Fredrikstad
+Bodø/Glimt.......Bodø / Glimt
+KFUM Oslo........KFUM
+HamKam.......HamKam
+
+
+statsapi 2025...........sportmonks 2025
+Bryne FK..........Bryne
+Vålerenga IF.........Vålerenga
+
+
+statsapi 2026.........sportmonks 2026
+IK Start.........Start
+Aalesunds FK.........Aalesund

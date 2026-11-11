@@ -1,0 +1,18 @@
+statsapi 2024/25........sportmonks 2024/25
+AL-Arabi (SA)......Al Arabi Saudi
+Al Jandal......Al-Jandal
+Al-Batin......Al Batin
+Al-Bukiryah FC......Al Bukayriyah
+Al-Faisaly......Al Faisaly
+Al-Jabalain......Al Jabalain
+Al-Najma SC......Al Najma
+Jeddah Club......Jeddah
+
+statsapi 2025/26........sportmonks 2025/26
+Al-Diraiyah Club......Al Diraiyah FC
+Al-Orobah......Al-Orobah FC
+Al-Raed......Al Raed
+
+statsapi 2026/27........sportmonks 2026/27
+Al-Jeel Club......Al Jeel
+Al-Okhdood......Al Okhdoud

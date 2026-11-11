@@ -1,0 +1,28 @@
+statsapi 2024/25.......sportmonks 2024/25
+Milan.......AC Milan
+Torino........Torino
+Empoli......Empoli
+Monza.......Monza
+Parma......Parma
+Fiorentina........Fiorentina
+Genoa.......Genoa
+Inter........Inter
+Lazio.......Lazio
+Venezia.......Venezia
+Cagliari......Cagliari
+Roma.......Roma
+Hellas Verona........Hellas Verona
+Napoli.......Napoli
+Bologna..........Bologna
+Udinese.......Udinese
+Juventus........Juventus
+Como.......Como
+Lecce.......Lecce
+Atalanta.......Atalanta
+
+statsapi 2025/26........ sportmonks 2025/26
+all team names are matching
+
+
+statsapi 2026/27....... sportmonks 2026/27
+all team names matches cleanly 

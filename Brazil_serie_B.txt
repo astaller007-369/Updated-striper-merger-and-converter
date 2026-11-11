@@ -1,0 +1,13 @@
+statsapi 2024........sportmonks 2024
+Amazonas FC......Amazonas
+Botafogo-SP......Botafogo SP
+Operário-PR......Operário PR
+Paysandu SC......Paysandu
+Vila Nova FC......Vila Nova
+
+statsapi 2025........sportmonks 2025
+Athletico......Athletico PR
+Atlético Goianiense......Atlético GO
+
+statsapi 2026........sportmonks 2026
+all team names match

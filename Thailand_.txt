@@ -1,0 +1,58 @@
+statsapi 2024
+2025-01-24,Port FC,Ratchaburi
+2025-01-25,Muang Thong United,Nongbua Pitchaya
+2025-01-25,Nakhon Ratchasima Mazda FC,Rayong FC
+2025-01-26,Nakhon Pathom United,Buriram United
+2025-01-26,BG Pathum United,Khon Kaen United
+2025-01-26,Uthai Thani FC,Sukhothai
+2025-01-26,PT Prachuap FC,Chiangrai United
+
+sportmonks 2024
+2025-01-24,Port FC,Ratchaburi Mitrphol FC
+2025-01-25,Lamphun Warrior,True Bangkok United
+2025-01-25,Nakhonratchasima Mazda FC,Rayong
+2025-01-25,SCG Muangthong United,Nongbua Pitchaya FC
+2025-01-26,Uthai Thani,Sukhothai
+2025-01-26,PT Prachuap FC,Singha Chiangrai United
+2025-01-26,Nakhon Pathom,Buriram United
+2025-01-26,BG Pathum United,Khonkaen United
+
+statsapi 2025
+2025-08-15,Ratchaburi,Kanchanaburi Power FC
+2025-08-16,Muang Thong United,Sukhothai
+2025-08-16,Lamphun Warrior,Buriram United
+2025-08-16,Nakhon Ratchasima Mazda FC,Chonburi FC
+2025-08-16,PT Prachuap FC,BG Pathum United
+2025-08-17,True Bangkok United,Rayong FC
+2025-08-17,Port FC,Ayutthaya United
+2025-08-17,Uthai Thani FC,Chiangrai United
+
+sportmonks 2025
+08-15,Ratchaburi Mitrphol FC,Kanchanaburi
+2025-08-16,PT Prachuap FC,BG Pathum United
+2025-08-16,Nakhonratchasima Mazda FC,Chonburi FC
+2025-08-16,Lamphun Warrior,Buriram United
+2025-08-16,SCG Muangthong United,Sukhothai
+2025-08-17,Uthai Thani,Singha Chiangrai United
+2025-08-17,Port FC,Ayutthaya United
+2025-08-17,True Bangkok United,Rayong
+
+statsapi 2026
+2026-09-04,Pattani FC,BG Pathum United
+2026-09-05,Rayong FC,PT Prachuap FC
+2026-09-05,Rasisalai United,Port FC
+2026-09-05,True Bangkok United,Sisaket United FC
+2026-09-05,Chiangrai United,Chonburi FC
+2026-09-06,Sukhothai,Buriram United
+2026-09-06,Ayutthaya United,Ratchaburi
+2026-09-06,Lamphun Warrior,Uthai Thani FC
+
+sportmonks 2026
+2026-09-04,Pattani,BG Pathum United
+2026-09-05,Singha Chiangrai United,Chonburi FC
+2026-09-05,True Bangkok United,Sisaket United
+2026-09-05,Rasi Salai United,Port FC
+2026-09-05,Rayong,PT Prachuap FC
+2026-09-06,Lamphun Warrior,Uthai Thani
+2026-09-06,Sukhothai,Buriram United
+2026-09-06,Ayutthaya United,Ratchaburi Mitrphol FC

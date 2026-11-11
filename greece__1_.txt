@@ -1,0 +1,24 @@
+statsapi2024/25..........sportmonks 2024/25
+NPS Volos.......Volos NFC
+Olympiacos FC.........Olympiacos F.C.
+PAOK.........PAOK
+MGS Panserraikos..........Panserraikos
+AEK Athens..........AEK Athens
+OFI Crete...........OFI
+Atromitos Athens.........Atromitos
+Aris Thessaloniki.........Aris (change Aris Thessaloniki and use Aris)
+Panathinaikos...........Panathinaikos
+Asteras Aktor.........Asteras Tripolis
+APO Levadiakos.........Levadiakos
+Athens Kallithea FC........Kallithea
+Panetolikos.........Panaitolikos
+PAS Lamia 1964.........Lamia
+
+statsapi2025/26.........sportmonks2025/26
+AE Larisa.......larisa
+AE Kifisia.......Kifisia
+
+
+statsapi2026/27...........sportmonks 2026/27
+PS Kalamata........PS Kalamata
+Iraklis 1908.........Iraklis 1908 FC

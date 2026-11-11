@@ -1,0 +1,21 @@
+statsapi 2024/25.........sportmonks 2024/25
+Paris Saint-Germain.......Paris Saint Germain
+AS Monaco........Monaco
+Stade de Reims.........Reims
+Lille.........LOSC Lille
+Stade Brestois.........Brest
+Olympique de Marseille.......Olympique Marseille
+Stade Rennais........Rennes
+Angers.......Angers SCO
+RC Lens.......Lens
+RC Strasbourg.........Strasbourg
+
+
+
+statsapi 2025/26.........sportmonks2025/26
+Paris FC......Paris ---(change Paris FC and use Paris)
+
+
+statsapi 2026/27
+
+all team names match meanly

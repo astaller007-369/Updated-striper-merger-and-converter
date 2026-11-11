@@ -1,0 +1,17 @@
+statsapi 2024/25........sportmonks 2024/25
+AC Bellinzona......Bellinzona
+FC Aarau......Aarau
+FC Stade-Lausanne-Ouchy......Stade Lausanne-Ouchy
+FC Thun......Thun
+FC Vaduz......Vaduz
+FC Wil 1900......Wil
+Schaffhausen......FC Schaffhausen
+Étoile Carouge FC......Étoile Carouge
+
+statsapi 2025/26........sportmonks 2025/26
+FC Rapperswil-Jona......Rapperswil-Jona
+Yverdon-Sport FC......Yverdon Sport
+
+statsapi 2026/27........sportmonks 2026/27
+FC Winterthur......Winterthur
+SC Kriens......Kriens

@@ -1,0 +1,32 @@
+statsapi2024/25...........sportmonks 2024/25
+Al-Nassr.........Al Nassr
+Al-Raed.......Al Raed
+Al-Wehda........Al-Wehda
+Al-Riyadh.......Al Riyadh
+Al-Taawoun.....Al Taawoun
+Al-Fayha......Al-Fayha
+Al-Ahli.......Al Ahli
+Al-Orobah........Al-Orobah FC
+Al-Qadsiah........Al-Qadsiah
+Al-Fateh..........Al Fateh
+Damac FC........Damac FC
+Al-Khaleej...........Al Khaleej
+Al-Okhdood........Al Okhdoud
+Al-Hilal.........Al Hilal
+Al-Shabab........Al Shabab
+Al-Ettifaq.........Al Ettifaq
+Al-Kholood..........Al Kholood
+Al-Ittihad.........Al Ittihad
+
+statsapi 2025/26.........sportmonks 2025/26
+Neom SC........NEOM SC
+Al-Hazem.......Al Hazm
+Al-Najma SC......Al Najma
+
+
+
+statsapi 2026/27.........sportmonks 2026/27
+Al-Diraiyah Club.......Al Diraiyah FC
+Al-Faisaly.........Al Faisaly
+
+

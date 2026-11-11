@@ -1,0 +1,31 @@
+statsapi 2024/25.........sportmonks 2024/25
+FC Eindhoven.......FC Eindhoven
+FC Den Bosch........FC Den Bosch
+FC Emmen.........FC Emmen
+FC Dordrecht..........FC Dordrecht
+MVV Maastricht........MVV Maastricht
+SC Cambuur..........SC Cambuur
+Helmond Sport........Helmond Sport
+Jong FC Utrecht Youth.........Jong FC Utrecht
+Vitesse.......Vitesse
+SC Telstar........ Telstar
+TOP Oss........TOP Oss
+Excelsior........Excelsior
+ADO Den Haag..........ADO Den Haag
+VVV-Venlo........VVV-Venlo
+De Graafschap.........De Graafschap
+FC Volendam........FC Volendam
+Jong PSV Eindhoven.........,Jong PSV
+Jong Ajax........Jong Ajax
+Jong AZ Alkmaar........Jong AZ
+Roda JC Kerkrade........Roda JC Kerkrade
+
+
+
+statsapi 2025/26........sportmonks 2025/26
+Willem II Tilburg.......Willem II
+RKC Waalwijk....... RKC Waalwijk
+
+
+statsapi2026/27.........sportmonks 2026/27
+Almere City FC.......Almere City

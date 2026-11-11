@@ -1,0 +1,33 @@
+statsapi 2024............sportmonks 2024
+Criciúma......Criciúma
+Juventude........Juventude
+Internacional.......Internacional
+Bahia.......Bahia
+Vitória.......Vitória
+Palmeiras.......Palmeiras
+Cruzeiro......Cruzeiro
+Botafogo.......Botafogo
+Atlético Goianiense.......Atlético GO
+Flamengo........Flamengo
+Athletico.........Athletico PR
+Cuiabá........Cuiabá
+Corinthians......Corinthians
+Atlético Mineiro.......Atlético Mineiro
+Vasco da Gama........Vasco da Gama
+Grêmio......Grêmio
+São Paulo.......São Paulo
+Fortaleza.........Fortaleza
+Fluminense.......Fluminense
+Red Bull Bragantino........Bragantino
+
+
+statsapi 2025.........sportmonks 2025
+Mirassol.........Mirassol
+Sport Recife.......Sport Recife
+Santos.......Santos
+Palmeiras...........Palmeiras
+Ceará..........Ceará
+
+
+statsapi 2026..........sportmonks 2026
+all team names are sharing same name

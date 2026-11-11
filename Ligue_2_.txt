@@ -1,0 +1,26 @@
+statsapi 2024/25.............sportmonks 2024/25
+Stade Lavallois........Laval
+Red Star FC.......Red Star
+USL Dunkerque..........Dunkerque
+Annecy FC.........Annecy
+Rodez AF.........Rodez
+Clermont Foot...........Clermont
+Pau FC........Pau
+Paris FC.......Paris (use paris to match one on ligue 1)
+FC Martigues........Martigues
+
+
+
+
+
+statsapi 2025/26..........sportmonks 2025/26
+Saint-Étienne.........Saint-Étienne
+Montpellier........Montpellier
+Nancy........Nancy
+Le Mans.........Le Mans
+Stade de Reims.......Reims
+
+
+
+statsapi 2026/27
+US Boulogne Côte-d'Opale.........Boulogne

@@ -1,0 +1,30 @@
+statsapi 2024/25........sportmonks 2024/25
+1. FC Saarbrücken......Saarbrücken
+Arminia Bielefeld......DSC Arminia Bielefeld
+Borussia Dortmund II U23......Borussia Dortmund II
+F.C. Hansa Rostock......Hansa Rostock
+FC Ingolstadt 04......Ingolstadt
+FC Viktoria Köln......Viktoria Köln
+Hannover 96 II U23......Hannover 96 II
+SC Verl......Verl
+SG Dynamo Dresden......Dynamo Dresden
+SV Sandhausen......Sandhausen
+SV Waldhof Mannheim......Waldhof Mannheim
+SV Wehen Wiesbaden......Wehen Wiesbaden
+SpVgg Unterhaching......Unterhaching
+TSV 1860 München......1860 München
+VfB Stuttgart II U21......Stuttgart II
+VfL Osnabrück......Osnabrück
+
+statsapi 2025/26........sportmonks 2025/26
+1. FC Schweinfurt 05......Schweinfurt
+SSV Jahn Regensburg......Jahn Regensburg
+SSV Ulm 1846......Ulm
+TSG Hoffenheim II U23......Hoffenheim II
+TSV Havelse......Havelse
+
+statsapi 2026/27........sportmonks 2026/27
+FC Würzburger Kickers......Würzburger Kickers
+SC Fortuna Köln......Fortuna Köln
+SG Sonnenhof Großaspach......Sonnenhof Großaspach
+SV Meppen......Meppen

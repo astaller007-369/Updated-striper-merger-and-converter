@@ -1,0 +1,30 @@
+statsapi 2024/25.........sportmonks 2024/25
+FC Hermannstadt............Hermannstadt
+Universitatea Craiova...........Universitatea Craiova
+FC Farul Constanța.........Farul Constanța
+AFC Unirea 04 Slobozia........Unirea Slobozia
+FCSB........FCSB
+FC Universitatea Cluj.........Universitatea Cluj
+UTA Arad.......UTA Arad
+FC Rapid București........Rapid Bucuresti
+Sepsi OSK.........Sepsi
+ACSM Politehnica Iași.........CSM Iaşi
+CFR 1907 Cluj..........CFR Cluj
+FC Dinamo București.........Dinamo Bucureşti
+FC Petrolul Ploieşti.........Petrolul 52
+FC Gloria Buzău.......SCM Gloria Buzau
+FC Botoșani.........Botoşani
+SC Oțelul Galați......Otelul
+
+
+
+statsapi2025/2026..........sportmonks 2025/26
+FC Metaloglobus București........Metaloglobus
+FK Csíkszereda Miercurea Ciuc........Csikszereda
+FC Argeș Pitești.........Argeş
+
+
+
+statsapi2026/27..........sportmonks2026/27
+FC Voluntari........Voluntari
+FC Corvinul Hunedoara......Corvinul Hunedoara

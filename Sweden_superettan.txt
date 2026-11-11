@@ -1,0 +1,24 @@
+statsapi 2024........sportmonks 2024
+Degerfors IF......Degerfors
+Gefle IF......Gefle
+Helsingborgs IF......Helsingborg
+IK Brage......Brage
+IK Oddevold......Oddevold
+Landskrona BoIS......Landskrona
+Trelleborgs FF......Trelleborg
+Utsiktens BK......Utsikten
+Varbergs BoIS......Varberg BoIS
+Örebro SK......Örebro
+Örgryte IS......Örgryte
+Östers IF......Öster
+
+statsapi 2025........sportmonks 2025
+Falkenbergs FF......Falkenberg
+Kalmar FF......Kalmar
+
+statsapi 2026........sportmonks 2026
+IFK Norrköping......Norrköping
+IFK Värnamo......Värnamo
+Ljungskile SK......Ljungskile
+Norrby IF......Norrby
+United IK Nordic......United Nordic

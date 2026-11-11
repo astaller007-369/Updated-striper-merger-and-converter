@@ -1,0 +1,21 @@
+statsapi 2024/25.........sportmonks 2024/25
+FC Winterthur.......Winterthur
+FC St. Gallen 1879........St. Gallen
+Yverdon-Sport FC......Yverdon Sport
+FC Zürich.........Zürich -----(change FC Zürich and use Zürich)
+FC Lugano......Lugano
+Grasshopper Club Zürich.........Grasshopper
+FC Lausanne-Sport..........Lausanne Sport
+Basel.........Basel
+FC Luzern.......Luzern
+Servette FC.........Servette
+FC Sion........Sion
+
+
+
+statsapi 2025/26.........sportmonks 2025/26
+FC Thun.......Thun
+
+
+statsapi 2026/27.........sportmonks 2026/27
+FC Vaduz.......Vaduz

@@ -1,0 +1,14 @@
+statsapi 2024/25........sportmonks 2024/25
+Cliftonville FC......Cliftonville
+Coleraine FC......Coleraine
+Crusaders FC......Crusaders
+Glentoran FC......Glentoran
+Larne FC......Larne
+Linfield FC......Linfield
+Portadown FC......Portadown
+
+statsapi 2025/26........sportmonks 2025/26
+Bangor FC......Bangor
+
+statsapi 2026/27........sportmonks 2026/27
+all team names match

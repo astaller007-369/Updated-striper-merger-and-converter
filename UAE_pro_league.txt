@@ -1,0 +1,19 @@
+statsapi 2024/25........sportmonks 2024/25
+Al-Ain......Al Ain
+Al-Ittihad Kalba......Kalba
+Al-Jazira......Al Jazira
+Al-Nasr Dubai......Al Nasr
+Al-Orooba......Al Urooba
+Al-Sharjah......Al Sharjah
+Al-Wahda FC......Al Wahda
+Baniyas......Bani Yas
+Dibba Al-Hisn......Dibba Al Hisn
+Khor Fakkan......Khorfakkan Club
+Shabab Al-Ahli Dubai......Shabab Al Ahli Dubai
+
+statsapi 2025/26........sportmonks 2025/26
+Al-Dhafra......Al Dhafra
+Dibba Al-Fujairah......Dibba Al Fujairah
+
+statsapi 2026/27........sportmonks 2026/27
+United......Dubai United

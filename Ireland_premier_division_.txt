@@ -1,0 +1,38 @@
+statsapi2024
+
+
+sportmonks 2024
+2024-02-16,Bohemians,Sligo Rovers
+2024-02-16,Derry City,Drogheda United
+2024-02-16,Galway United,St Patrick's
+2024-02-16,Waterford United,Shelbourne
+2024-02-16,Shamrock Rovers,Dundalk
+
+
+statsapi 2025
+2025-02-14,St. Patrick's Athletic,Drogheda United
+2025-02-14,Shelbourne,Derry City
+2025-02-14,Cork City,Galway United
+2025-02-15,Sligo Rovers,Waterford FC
+2025-02-16,Bohemian FC,Shamrock Rovers
+
+sportmonks 2025
+2025-02-14,Cork City,Galway United
+2025-02-14,Shelbourne,Derry City
+2025-02-14,St Patrick's,Drogheda United
+2025-02-15,Sligo Rovers,Waterford United
+2025-02-16,Bohemians,Shamrock Rovers
+
+statsapi 2026
+2026-02-20,Shamrock Rovers,St. Patrick's Athletic
+2026-02-20,Dundalk FC,Drogheda United
+2026-02-20,Waterford FC,Sligo Rovers
+2026-02-20,Shelbourne,Galway United
+2026-02-20,Derry City,Bohemian FC
+
+sportmonks 2026
+2026-02-20,Waterford United,Sligo Rovers
+2026-02-20,Shelbourne,Galway United
+2026-02-20,Derry City,Bohemians
+2026-02-20,Shamrock Rovers,St Patrick's
+2026-02-20,Dundalk,Drogheda United

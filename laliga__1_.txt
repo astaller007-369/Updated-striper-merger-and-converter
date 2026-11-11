@@ -1,0 +1,33 @@
+statsapi 2024/25.........sportmonks 2024/25
+Real Betis........Real Betis
+Girona FC...........Girona
+Athletic Club.......Athletic Club
+Getafe......Getafe
+Las Palmas..........Las Palmas
+Sevilla..........Sevilla
+Celta Vigo..........Celta de Vigo
+Deportivo Alavés... ....Deportivo Alavés
+Valencia..........Valencia
+Barcelona........FC Barcelona
+Osasuna...........Osasuna
+Leganés........Leganés
+Mallorca...........Mallorca
+Real Madrid...........Real Madrid
+Real Sociedad........Real Sociedad
+Rayo Vallecano..........Rayo Vallecano
+Villarreal.........Villarreal
+Atlético Madrid.......Atlético de Madrid
+Real Valladolid........Real Valladolid
+Espanyol........Espanyol
+
+
+
+statsapi 2025/26.........sportmonks 2025/26
+Levante UD......Levante
+Real Oviedo........Real Oviedo
+Elche.......Elche
+
+
+statsapi 2026/27.......sportmonks 2026/27
+Deportivo La Coruña..........Deportivo A Coruña
+Racing de Santander.......Racing Santander

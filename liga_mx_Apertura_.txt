@@ -1,0 +1,25 @@
+statsapi 2024/25 apertura..........sportmonks 2024/25 Apertura
+Club Puebla.........Puebla
+Santos Laguna........Santos Laguna
+Atlético San Luis........Atlético San Luis
+Club América.........América
+FC Juárez........Juárez
+Atlas FC.........Atlas
+Querétaro FC.........Querétaro
+Club Tijuana.........Tijuana
+Pumas UNAM.......Pumas UNAM
+Club León............León
+Cruz Azul.........Cruz Azul
+Mazatlán FC........Mazatlán
+CD Guadalajara.........Guadalajara
+CD Toluca.........Toluca
+Tigres UANL.........Tigres UANL
+Club Necaxa.........Necaxa
+CF Pachuca...........Pachuca
+CF Monterrey.........Monterrey
+
+
+statsapi 2025/26........sportmonks 2025/26
+
+statsapi 2026/27................sportmonks 2026/27
+Atlante FC....Atlante

@@ -1,0 +1,30 @@
+statsapi 2024/25........sportmonks 2024/25
+
+FK Radnički 1923.........Radnički Kragujevac
+FK Železničar Pančevo......Železničar Pančevo,
+FK Napredak Kruševac.........Napredak
+FK Partizan.......Partizan
+FK Crvena zvezda........Crvena Zvezda
+FK Jedinstvo Ub........Jedinstvo Ub
+FK Mladost Lučani.........Mladost Lučani
+OFK Beograd.......OFK Beograd
+FK Čukarički...........Čukarički
+FK Radnički Niš.......Radnički Niš,
+FK Novi Pazar........Novi Pazar
+FK Spartak Subotica........Spartak Subotica
+FK TSC Bačka Topola........Bačka Topola
+FK IMT Beograd..........IMT Novi Beograd
+FK Tekstilac Odžaci.......Tekstilac Odzaci
+FK Vojvodina........Vojvodina
+
+
+
+
+
+statsapi 2025/26........sportmonks 2025/26
+FK Javor Ivanjica.......Javor Ivanjica
+FK Radnik Surdulica........Radnik Surdulica
+
+statsapi 2026/27........sportmonks 2026/27
+FK Zemun.......Zemun
+FK Mačva Šabac.......Mačva Šabac

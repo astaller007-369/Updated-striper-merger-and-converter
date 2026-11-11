@@ -1,0 +1,30 @@
+statsapi 2024/25........sportmonks 2024/25
+Club Brugge KV........Club Brugge
+KV Mechelen.......Mechelen
+RSC Anderlecht........Anderlecht
+Sint-Truidense VV..........Sint-Truiden
+K. Beerschot V.A. ................K. Beerschot V.A.
+Oud-Heverlee Leuven..........OH Leuven
+FCV Dender.......Dender
+Royale Union Saint-Gilloise.........Union Saint-Gilloise
+KVC Westerlo........Westerlo
+Cercle Brugge........ Cercle Brugge
+RC Sporting Charleroi..........Sporting Charleroi
+Royal Antwerp FC.........Antwerp
+KV Kortrijk........KV Kortrijk
+KAA Gent.......Gent
+KRC Genk.........Genk
+Standard Liège......  Standard Liège
+
+
+statsapi 2025/26.........sportmonks 2025/26
+RAAL La Louvière.........La Louvière
+SV Zulte Waregem........Zulte-Waregem
+
+
+statsapi 2026/27.........sportmonks 2026/27
+Lommel SK.........Lommel SK
+SK Beveren........SK Beveren
+
+
+

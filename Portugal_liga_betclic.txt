@@ -1,0 +1,28 @@
+statsapi2024/25
+Gil Vicente.......Gil Vicente
+AVS - Futebol SAD.........AVS
+Santa Clara.........Santa Clara
+FC Porto.........Porto
+Benfica.........Benfica
+Casa Pia.........Casa Pia
+CD Nacional.......Nacional
+Sporting.......Sporting CP
+Rio Ave........Rio Ave
+SC Farense.........Farense
+Boavista.........Boavista
+Sporting Braga.........Sporting Braga
+SC Farense.........Farense
+Estoril Praia........Estoril
+Moreirense........Moreirense
+FC Arouca.........Arouca
+CF Estrela Amadora.........Estrela Amadora
+Famalicão........Famalicão
+
+
+statsapi2025/26
+Vitória SC........Vitória Guimarães
+FC Alverca.........Alverca
+
+
+statsapi 2026/27........ sportmonks 2026/27
+Académico Viseu FC.........Academico Viseu

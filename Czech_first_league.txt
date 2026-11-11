@@ -1,0 +1,20 @@
+statsapi2024/25............sportmonks 2024/25
+SK Slavia Praha........Slavia Praha
+AC Sparta Praha.........Sparta Praha
+FK Pardubice..........Pardubice
+SK Dynamo České Budějovice.......České Budějovice
+SK Sigma Olomouc........Sigma Olomouc
+Bohemians Praha 1905........Bohemians 1905
+FK Jablonec.........Jablonec
+FC Hradec Králové.........Hradec Králové
+FK Teplice........Teplice
+1. FC Slovácko.....Slovácko
+MFK Karviná........Karviná
+FC Slovan Liberec.......Slovan Liberec
+
+statsapi2025/26........sportmonks 2025/26
+FC Zlín.........Zlín
+
+staysapi 2026/27.......sportmonks 2026/27
+FC Zbrojovka Brno..........Zbrojovka Brno
+SK Líšeň........SK Artis Brno

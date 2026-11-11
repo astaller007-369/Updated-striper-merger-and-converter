@@ -1,0 +1,27 @@
+starsapi2024/25..............sportmonks2024/25
+RSCA Futures U23........RSCA Futures U23
+KMSK Deinze........Deinze
+RFC Seraing.......RFC Seraing
+Jong KRC Genk U23..........Jong KRC Genk U23
+SK Beveren.......SK Beveren
+Lommel SK.........Lommel SK
+RWD Molenbeek.........RWDM Brussels
+Patro Eisden Maasmechelen.......Patro Eisden Maasmechelen
+Club NXT U23.........Club NXT U23
+KSC Lokeren-Temse.........KSC Lokeren
+SV Zulte Waregem........Zulte-Waregem
+Koninklijke Lierse Sportkring........Koninklijke Lierse Sportkring
+RFC Liège........RFC Liège
+KAS Eupen..........KAS Eupen
+Royal Francs Borains........Royal Francs Borains
+RAAL La Louvière.......La Louvière
+
+
+statsapi 2025/26.........sportmonks 2025/26
+KAA Gent Reserve U23........Jong Gent
+
+
+statsapi 2026/27.......sportmonks2026/27
+Koninklijke Sporting Hasselt........Sporting Hasselt
+FCV Dender.......Dender
+Royal Excelsior Virton........Excelsior Virton

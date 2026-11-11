@@ -1,0 +1,11 @@
+statsapi 2024/25........sportmonks2024/25
+Heart of Midlothian.......Hearts
+Dundee FC..........Dundee ---------- (change Dundee FC to Dundee)
+
+
+statsapi 2025/26.......sportmonks 2025/26
+Falkirk FC........Falkirk
+
+
+statsapi 2026/27........sportmonks 2026/27
+all team names maps cleanly

@@ -1,0 +1,29 @@
+statsapi 2024/25.......sportmonks 2024/25
+FC Groningen.......FC Groningen
+NAC Breda.......NAC Breda
+PSV Eindhoven......PSV
+RKC Waalwijk........RKC Waalwijk
+Almere City FC.......Almere City
+AZ Alkmaar.......AZ Alkmaar
+NEC Nijmegen........NEC Nijmegen
+FC Twente.......FC Twente
+Feyenoord.......Feyenoord
+Willem II Tilburg..........Willem II
+AFC Ajax........Ajax
+SC Heerenveen.......SC Heerenveen
+Go Ahead Eagles.........Go Ahead Eagles
+Fortuna Sittard........Fortuna Sittard
+FC Utrecht.........FC Utrecht
+PEC Zwolle.......PEC Zwolle
+Sparta Rotterdam.........Sparta Rotterdam
+Heracles Almelo........Heracles Almelo
+
+
+statsapi 2025/26..........sportmonks 2025/26
+FC Volendam..........FC Volendam
+Excelsior..........Excelsior
+SC Telstar........Telstar
+
+
+statsapi2026/27..........sportmonks 2026/27
+all team names match

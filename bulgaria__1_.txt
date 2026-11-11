@@ -1,0 +1,25 @@
+statsapi 2024/25...........sportmonks 2024/25
+Arda Kardzhali........Arda
+FK Spartak Varna.........Spartak Varna
+Slavia Sofia.........Slavia Sofia
+CSKA Sofia.......CSKA Sofia
+Cherno More Varna.........Cherno More
+Lokomotiv Plovdiv............Lokomotiv Plovdiv
+FK Septemvri Sofia.........Septemvri Sofia
+Botev Vratsa.........Botev Vratsa
+Levski Sofia.......Levski Sofia
+Ludogorets.........Ludogorets
+Botev Plovdiv..........Botev Plovdiv
+FK Hebar Pazardzhik.........Hebar 1918
+FC CSKA 1948 Sofia........CSKA 1948 Sofia
+Lokomotiv Sofia........Lokomotiv Sofia 1929
+Beroe Stara Zagora..........Beroe
+FK Krumovgrad...........Levski Krumovgrad
+
+
+statsapi 2025/26.........sportmonks 2025/26
+PFK Montana 1921........Montana
+FK Dobrudzha Dobrich..........Dobrudzha 1919
+
+statsapi 2026/27.........sportmonks 2026/27
+FK Dunav Ruse.........Dunav 2010

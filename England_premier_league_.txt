@@ -1,0 +1,31 @@
+statsapi2024/25..........sportmonks 2024/25
+Manchester United.......Manchester United
+Fulham.......Fulham
+Ipswich Town.......Ipswich Town
+Liverpool...........Liverpool
+Nottingham Forest........Nottingham Forest
+Bournemouth........AFC Bournemouth
+Newcastle United.......Newcastle United
+Southampton.......Southampton
+Everton.........Everton
+Brighton & Hove Albion........Brighton & Hove Albion
+Arsenal........Arsenal
+Wolverhampton.........Wolverhampton Wanderers
+West Ham United.........West Ham United
+Aston Villa.......Aston Villa
+Brentford.........Brentford
+Crystal Palace........Crystal Palace
+Chelsea........Chelsea
+Manchester City........Manchester City
+Leicester City.........Leicester City
+Tottenham Hotspur........Tottenham Hotspur
+
+
+
+statsapi2025/26.......sportmonks 2025/26
+all team names matches
+
+
+
+statsapi2026/27
+team names are the same 

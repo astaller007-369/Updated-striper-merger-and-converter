@@ -1,0 +1,23 @@
+statsapi 2024/25........sportmonks 2024/25
+MŠK Žilina.........Žilina
+FC Košice.....FK Košice
+MFK Zemplín Michalovce.........Zemplín Michalovce
+FK Železiarne Podbrezová........Podbrezová
+DAC 1904.........Dunajská Streda
+MFK Skalica.........Skalica
+Dukla Banská Bystrica.........Banská Bystrica
+FC Spartak Trnava........Spartak Trnava
+AS Trenčín........Trenčín
+KFC Komárno.........Komárno
+MFK Ružomberok..........Ružomberok
+ŠK Slovan Bratislava........Slovan Bratislava
+
+
+
+statsapi 2025/26.........sportmonks 2025/26
+1. FC Tatran Prešov..........Tatran Prešov
+
+
+
+statsapi 2026/27.........sportmonks 2026/27
+all team names are matching cleanly
